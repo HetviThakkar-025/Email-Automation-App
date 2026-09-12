@@ -1,4 +1,4 @@
-python-dotenv
-groq
-imap-tools
-streamlit
+streamlit==1.63.0
+python-dotenv==1.2.3
+groq==1.7.0
+imap-tools==1.15.0
